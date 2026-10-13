@@ -19,7 +19,7 @@
     <p>Los ratones y los roedores son importantes en mi vida por que me identifico mucho con ellos</p>
   </section>
 
-  <img src="ratatin.jpg.jpeg" alt="ratonreal">
+  <img src="ratatin.jpg" alt="ratonreal">
 
   <section>
     <h2>Características</h2>
